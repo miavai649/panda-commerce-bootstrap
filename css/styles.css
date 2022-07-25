@@ -1,0 +1,23 @@
+.panda-bg-info{
+    background-color: #fceae8;
+}
+.cetagories img{
+    height: 100px;
+} 
+.panda-btn-warning {
+    color: aliceblue;
+    background-image: linear-gradient(45deg, #FF512F, #DD2476);
+    padding: 10px 20px;
+    border-radius: 15px;
+    border: none;
+    font-weight: 600;
+}
+.watch-bg-danger {
+    background-image: linear-gradient(70deg, #2193b0, #6dd5ed);
+}
+.bag-bg-success {
+    background-image: linear-gradient(20deg, #4568dc, #b06ab3);
+}
+.shoe-bg-warning {
+    background-image: linear-gradient(180deg, #cc2b5e, #753a88);
+}
